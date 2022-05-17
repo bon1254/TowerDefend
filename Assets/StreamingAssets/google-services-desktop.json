@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987461010447",
+    "firebase_url": "https://tower-defense-13979-default-rtdb.firebaseio.com",
+    "project_id": "tower-defense-13979",
+    "storage_bucket": "tower-defense-13979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987461010447:android:fe1fbd1f441a1ebd854f7a",
+        "android_client_info": {
+          "package_name": "unity.JimmyCompany.TD"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987461010447-esgubiomham8dl20t74b23q5e5f364ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEz7bQU3hl5tJ6POzTvOCNo0mloPu0bfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987461010447-esgubiomham8dl20t74b23q5e5f364ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
